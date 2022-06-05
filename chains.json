@@ -1,0 +1,34 @@
+{
+    "cosmoshub-4": {
+        "name": "Cosmos",
+        "logo": "https://assets.mcontrol.ml/coins/ATOM.svg"
+    },
+    "osmosis-1": {
+        "name": "Osmosis",
+        "logo": "https://assets.mcontrol.ml/coins/OSMO.svg"
+    },
+    "juno-1": {
+        "name": "Juno",
+        "logo": "https://assets.mcontrol.ml/coins/JUNO.svg"
+    },
+    "secret-4": {
+        "name": "Secret",
+        "logo": "https://assets.mcontrol.ml/coins/SCRT.svg"
+    },
+    "gravity-bridge-3": {
+        "name": "Gravity Bridge",
+        "logo": "https://assets.mcontrol.ml/coins/GRAV.svg"
+    },
+    "evmos_9001-2": {
+        "name": "EVMOS",
+        "logo": "https://assets.mcontrol.ml/coins/EVMOS.svg"
+    },
+    "axelar-dojo-1": {
+        "name": "Axelar",
+        "logo": "https://assets.mcontrol.ml/coins/AXELAR.svg"
+    },
+    "crescent-1": {
+        "name": "Crescent",
+        "logo": "https://assets.mcontrol.ml/coins/CRE.svg"
+    }
+}
