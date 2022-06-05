@@ -1,5 +1,9 @@
 {
     "mainnet": {
+        "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw": {
+            "name": "Astroport admin wallet",
+            "icon": "https://assets.mcontrol.ml/img/ASTRO.png"
+        },
         "terra1j8hayvehh3yy02c2vtw5fdhz9f4drhtee8p5n5rguvg3nyd6m83qd2y90a": {
             "name": "Astroport router",
             "icon": "https://assets.mcontrol.ml/img/ASTRO.png"
