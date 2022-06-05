@@ -1,0 +1,22 @@
+{
+    "mainnet": {
+        "terra1466nf3zuxpya8q9emxukd7vftaf6h4psr0a07srl5zw74zh84yjqxl5qul": {
+            "name": "Terraswap factory",
+            "icon": "https://assets.mcontrol.ml/img/TERRASWAP.svg"
+        },
+        "terra13ehuhysn5mqjeaheeuew2gjs785f6k7jm8vfsqg3jhtpkwppcmzqcu7chk": {
+            "name": "Terraswap router",
+            "icon": "https://assets.mcontrol.ml/img/TERRASWAP.svg"
+        }
+    },
+    "testnet": {
+        "terra1jha5avc92uerwp9qzx3flvwnyxs3zax2rrm6jkcedy2qvzwd2k7qk7yxcl": {
+            "name": "Terraswap factory",
+            "icon": "https://assets.mcontrol.ml/img/TERRASWAP.svg"
+        },
+        "terra1xp6xe6uwqrspumrkazdg90876ns4h78yw03vfxghhcy03yexcrcsdaqvc8": {
+            "name": "Terraswap router",
+            "icon": "https://assets.mcontrol.ml/img/TERRASWAP.svg"
+        }
+    }
+}
