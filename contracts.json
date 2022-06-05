@@ -1,5 +1,8 @@
 {
     "mainnet": {
+        "terra1qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq486l9a": {
+            "name": "Null wallet"
+        },
         "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw": {
             "name": "Astroport admin wallet",
             "icon": "https://assets.mcontrol.ml/img/ASTRO.png"
@@ -26,6 +29,9 @@
         }
     },
     "testnet": {
+        "terra1qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq486l9a": {
+            "name": "Null wallet"
+        },
         "terra1jha5avc92uerwp9qzx3flvwnyxs3zax2rrm6jkcedy2qvzwd2k7qk7yxcl": {
             "name": "Terraswap factory",
             "icon": "https://assets.mcontrol.ml/img/TERRASWAP.svg"
