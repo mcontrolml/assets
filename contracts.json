@@ -1,5 +1,8 @@
 {
     "mainnet": {
+        "terra1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8pm7utl": {
+            "name": "Distribution module"
+        },
         "terra1qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq486l9a": {
             "name": "Null wallet"
         },
