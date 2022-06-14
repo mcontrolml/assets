@@ -2,15 +2,15 @@
     "mainnet": {
         "terra1ncjg4a59x2pgvqy9qjyqprlj8lrwshm0wleht5": {
             "name": "Binance deposits",
-            "icon": "https://assets.mcontrol.ml/img/binance.png"
+            "icon": "https://assets.mcontrol.ml/img/Binance.png"
         },
         "terra1xafyv6tc4dsl0xwlu2jaf3mq0ljfw2f0ah5e5l": {
             "name": "Bitrue deposits",
-            "icon": "https://assets.mcontrol.ml/img/bitrue.png"
+            "icon": "https://assets.mcontrol.ml/img/Bitrue.png"
         },
         "terra14l46jrdgdhaw4cejukx50ndp0hss95ekt2kfmw": {
             "name": "KuCoin deposits",
-            "icon": "https://assets.mcontrol.ml/img/kucoin.png"
+            "icon": "https://assets.mcontrol.ml/img/KuCoin.png"
         },
         "terra1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8pm7utl": {
             "name": "Distribution module"
