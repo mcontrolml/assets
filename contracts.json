@@ -57,6 +57,10 @@
         "terra1tvwfwrd2sp7r95mngpwmz0yfxpu94marfl5syj": {
             "name": "Hotcoin deposits",
             "icon": "https://assets.mcontrol.ml/img/Hotcoin.png"
+        },
+        "terra1gksekxyu380rynkkrmr84dfnyj79ahdx4wp82x": {
+            "name": "BKEX deposits",
+            "icon": "https://assets.mcontrol.ml/img/BKEX.png"
         }
     },
     "testnet": {
