@@ -45,6 +45,18 @@
         "terra13ehuhysn5mqjeaheeuew2gjs785f6k7jm8vfsqg3jhtpkwppcmzqcu7chk": {
             "name": "Terraswap router",
             "icon": "https://assets.mcontrol.ml/img/TERRASWAP.svg"
+        },
+        "terra146mx5eh6t3u87dl0j6v6srglwf4runmt089t8t": {
+            "name": "LBank deposits",
+            "icon": "https://assets.mcontrol.ml/img/LBank.png"
+        },
+        "terra1erasj2un0nryq2qkepvgu8thp0uyg7gs0sx3qc": {
+            "name": "Whitebit deposits",
+            "icon": "https://assets.mcontrol.ml/img/Whitebit.png"
+        },
+        "terra1tvwfwrd2sp7r95mngpwmz0yfxpu94marfl5syj": {
+            "name": "Hotcoin deposits",
+            "icon": "https://assets.mcontrol.ml/img/Hotcoin.png"
         }
     },
     "testnet": {
