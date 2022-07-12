@@ -1,5 +1,9 @@
 {
     "mainnet": {
+        "terra1e8zul28wl8nzj9dvnw82lww7kkw3ypt04xgf2p": {
+            "name": "Crypto.com deposits",
+            "icon": "https://assets.mcontrol.ml/img/CryptoCom.png"
+        },
         "terra1ncjg4a59x2pgvqy9qjyqprlj8lrwshm0wleht5": {
             "name": "Binance deposits",
             "icon": "https://assets.mcontrol.ml/img/Binance.png"
