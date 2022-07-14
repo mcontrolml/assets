@@ -1,5 +1,17 @@
 {
     "mainnet": {
+        "terra1p54hc4yy2ajg67j645dn73w3378j6k05v52cnk": {
+            "name": "HASHED",
+            "icon": "https://assets.mcontrol.ml/img/HASHED.jpeg"
+        },
+        "terra1zuxly9qjtz4r9y84fgnv6zwtar6m54v9qlfv7x": {
+            "name": "Jump",
+            "icon": "https://assets.mcontrol.ml/img/JUMP.jpeg"
+        },
+        "terra19scdgmvhj5rl7f66n06z5pescf0gmeysw6pjrz": {
+            "name": "Binance",
+            "icon": "https://assets.mcontrol.ml/img/Binance.png"
+        },
         "terra1e8zul28wl8nzj9dvnw82lww7kkw3ypt04xgf2p": {
             "name": "Crypto.com deposits",
             "icon": "https://assets.mcontrol.ml/img/CryptoCom.png"
@@ -74,6 +86,96 @@
         "terra1xp6xe6uwqrspumrkazdg90876ns4h78yw03vfxghhcy03yexcrcsdaqvc8": {
             "name": "Terraswap router",
             "icon": "https://assets.mcontrol.ml/img/TERRASWAP.svg"
+        },
+        "terra15l9zffcl4fy07sprp6zg8mma7jlxmrncrs323p": {
+            "name": "Unknown VC"
+        },
+        "terra122yr37c04czm0cnjshyj75k9syldgt3qhfcjd2": {
+            "name": "Unknown VC"
+        },
+        "terra1hmlmcaq9xarwr4usfhszxkr7stvmfk89ggeqfv": {
+            "name": "Unknown VC"
+        },
+        "terra1mjxpu0l8fvlfhzdakekn0xq9w2cml2fe7q4g40": {
+            "name": "Unknown VC"
+        },
+        "terra12nf2vjvtxj6qte7r94za55eszzm90nc32ng624": {
+            "name": "Unknown VC"
+        },
+        "terra1ervhtmyrfd4dk77752u9sfxplkdm34nvmmnqqt": {
+            "name": "Unknown VC"
+        },
+        "terra1sggex6w8dc6qvkm6mmt66zfdzacamyvy45lf0n": {
+            "name": "Unknown VC"
+        },
+        "terra1w7xm2wu7d9hns5axt5kkj976uvqdu27ljqjd6x": {
+            "name": "Unknown VC"
+        },
+        "terra1uwaytgg7q703wuwxvvt3ujm5yra3p0k7wlzyh6": {
+            "name": "Unknown VC"
+        },
+        "terra1pj5ej6hfq3u7endqyqn02ghk7dfxcaxenc0q6c": {
+            "name": "Unknown VC"
+        },
+        "terra1crv5tmsv6wxp0un9w7pj9smpqa8sh0gjx52g98": {
+            "name": "Unknown VC"
+        },
+        "terra1qggut0tm799s0sy65cnzdela3yj2rfamd2sssf": {
+            "name": "Unknown VC"
+        },
+        "terra138yt7w800jusnw4nlgrnwuunthtnqttl8mn7y6": {
+            "name": "Unknown VC"
+        },
+        "terra1t7j6vm9j5l7cz4a0cpjacnwgnaequfvfj275n9": {
+            "name": "Unknown VC"
+        },
+        "terra10newqr6zmpqh6490exkdh8hl8yhgl0s7hddr3f": {
+            "name": "Unknown VC"
+        },
+        "terra1uza3c9hpnp50np7t8ph5s5vqc0alggvv57q7zu": {
+            "name": "Unknown VC"
+        },
+        "terra1d4ulqc7y3pqe5lxdwv0sl7cd9qnkjturd56cj3": {
+            "name": "Unknown VC"
+        },
+        "terra1yfaahcchjqjvvu2ay6vmezqdhsdqf7fmsl3v5x": {
+            "name": "Unknown VC"
+        },
+        "terra1aqxp70l8cpypaz477h6lnddrpsu6atk7um62fw": {
+            "name": "Unknown VC"
+        },
+        "terra164zujjfc8eynj94mxckaskdvghwwgecw0ms8eg": {
+            "name": "Unknown VC"
+        },
+        "terra1zav2wzd9c5ugffh6r9td0gsvgufyqtpp4nkfn2": {
+            "name": "Unknown VC"
+        },
+        "terra1k2dsdel2jkyt0xjn8y37zyncgzu78vcgsjdldl": {
+            "name": "Unknown VC"
+        },
+        "terra10y6jpanhrktdhyap77fasgacpve9yj3djlwngs": {
+            "name": "Unknown VC"
+        },
+        "terra10yftnmp55uf4rq4w69c2z4jyft0vrgrvc49ntl": {
+            "name": "Unknown VC"
+        },
+        "terra1tz570feuax720698juyclc09rjq3cua9y59p7c": {
+            "name": "Unknown VC"
+        },
+        "terra1kwvcccpns6gcfajakup78jdgtsde6nru6xrsl6": {
+            "name": "Unknown VC"
+        },
+        "terra1cd2va3d5k433ejhtq6dpjzpkl43cd6hqf0t73d": {
+            "name": "Unknown VC"
+        },
+        "terra1wc0vr0cwc807pyvd9r2v7j6k2eyny39rj80hg3": {
+            "name": "Unknown VC"
+        },
+        "terra19qwsgwz0kuyfq48k96nev0lzgll22kjwghcdpl": {
+            "name": "Unknown VC"
+        },
+        "terra17llpzqmqqect6m3jun5ygkpgad9302l8c366wx": {
+            "name": "Unknown VC"
         }
     }
 }
