@@ -46,6 +46,10 @@
             "name": "Astroport factory",
             "icon": "https://assets.mcontrol.ml/img/ASTRO.png"
         },
+        "terra15hlvnufpk8a3gcex09djzkhkz3jg9dpqvv6fvgd0ynudtu2z0qlq2fyfaq": {
+            "name": "ASTRO airdrop",
+            "icon": "https://assets.mcontrol.ml/img/ASTRO.png"
+        },
         "terra13ag3krqu0qkvvc4nz3rvvtes73a8ng9pyascv0": {
             "name": "Terraswap admin wallet",
             "icon": "https://assets.mcontrol.ml/img/TERRASWAP.svg"
@@ -73,19 +77,6 @@
         "terra1gksekxyu380rynkkrmr84dfnyj79ahdx4wp82x": {
             "name": "BKEX deposits",
             "icon": "https://assets.mcontrol.ml/img/BKEX.png"
-        }
-    },
-    "testnet": {
-        "terra1qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq486l9a": {
-            "name": "Null wallet"
-        },
-        "terra1jha5avc92uerwp9qzx3flvwnyxs3zax2rrm6jkcedy2qvzwd2k7qk7yxcl": {
-            "name": "Terraswap factory",
-            "icon": "https://assets.mcontrol.ml/img/TERRASWAP.svg"
-        },
-        "terra1xp6xe6uwqrspumrkazdg90876ns4h78yw03vfxghhcy03yexcrcsdaqvc8": {
-            "name": "Terraswap router",
-            "icon": "https://assets.mcontrol.ml/img/TERRASWAP.svg"
         },
         "terra15l9zffcl4fy07sprp6zg8mma7jlxmrncrs323p": {
             "name": "Unknown VC"
@@ -176,6 +167,19 @@
         },
         "terra17llpzqmqqect6m3jun5ygkpgad9302l8c366wx": {
             "name": "Unknown VC"
+        }
+    },
+    "testnet": {
+        "terra1qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq486l9a": {
+            "name": "Null wallet"
+        },
+        "terra1jha5avc92uerwp9qzx3flvwnyxs3zax2rrm6jkcedy2qvzwd2k7qk7yxcl": {
+            "name": "Terraswap factory",
+            "icon": "https://assets.mcontrol.ml/img/TERRASWAP.svg"
+        },
+        "terra1xp6xe6uwqrspumrkazdg90876ns4h78yw03vfxghhcy03yexcrcsdaqvc8": {
+            "name": "Terraswap router",
+            "icon": "https://assets.mcontrol.ml/img/TERRASWAP.svg"
         }
     }
 }
